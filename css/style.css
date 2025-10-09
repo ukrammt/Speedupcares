@@ -10008,3 +10008,17 @@ textarea.form-control {
 p {
   margin-bottom: 10px; /* espace entre les paragraphes */
 }
+
+/* Responsive hero background for mobile */
+.hero-wrap,
+.hero-wrap .hero-bg-blur {
+  background-size: cover !important;
+  background-position: center center !important;
+  background-repeat: no-repeat !important;
+}
+
+@media (max-width: 576px) {
+  .hero-wrap {
+    min-height: 60vh;
+  }
+}
