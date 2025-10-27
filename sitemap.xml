@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://speedup-location.com/</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://speedupcare.com/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://speedup-location.com/services.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://speedupcare.com/car.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://speedup-location.com/pricing.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://speedupcare.com/services.html</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://speedup-location.com/car.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
+    <loc>https://speedupcare.com/pricing.html</loc>
+    <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://speedup-location.com/contact.html</loc>
-    <lastmod>2024-01-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <loc>https://speedupcare.com/contact.html</loc>
+    <priority>0.8</priority>
   </url>
 </urlset>
