@@ -2,11 +2,11 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://speedup-location.com/sitemap.xml
+Sitemap: https://speedupcare.com/sitemap.xml
 
-# Disallow admin or private directories (if any)
+# Disallow admin or private directories (si tu en as)
 # Disallow: /admin/
 # Disallow: /private/
 
-# Allow all search engines to crawl the site
+# Crawl-delay optionnel
 Crawl-delay: 1
